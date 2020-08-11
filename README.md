@@ -1,7 +1,8 @@
   <p align="center">
   <img  src="Image/SloganWanderson.png">
 </p>
-# Top-10-usando-Spotify-API
+
+#Top-10-usando-Spotify-API
 
 - Top 10 de cantores do gênero feminino e masculino.
   - Passo1: Coletar dados do Spotify-API.
