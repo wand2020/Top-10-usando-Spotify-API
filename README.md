@@ -6,6 +6,6 @@
   (Passo1: Coletar dados do Spotify-API.)
   
   (Passo2: Analise de dados. )
-  ![](image/loudness.png)
+  ![](Image/loudness.png)
   
   (Passo3: Uso do Machine Learning para identificar cantores por gênero.)
